@@ -1,5 +1,10 @@
+import Header from "../../components/Header";
+
 export default function(){
-    return <div>
-        <a> HIHI </a>
-    </div>
+    return 
+    <Header>
+        <div>
+            <a> HIHI </a>
+        </div>
+    </Header>
 }
