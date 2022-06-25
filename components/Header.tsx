@@ -3,7 +3,7 @@ import Link from "next/link";
 const linkStyle ={
     marginRight: 15
 }
-const Header = () =>(
+const Header = () => (
     <div>
         <Link href="/">
             <a style={linkStyle}> HOME </a>

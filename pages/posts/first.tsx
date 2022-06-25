@@ -1,10 +1,8 @@
 import Header from "../../components/Header";
 
-export default function(){
-    return 
-    <Header>
+export default () => (
         <div>
+            <Header/>
             <a> HIHI </a>
         </div>
-    </Header>
-}
+)
