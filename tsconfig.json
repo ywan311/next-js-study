@@ -24,7 +24,7 @@
     "**/*.ts",
     "**/*.tsx",
     "pages/**/*js"
-  ],
+, "components/Header.jsx"  ],
   "exclude": [
     "node_modules"
   ]
