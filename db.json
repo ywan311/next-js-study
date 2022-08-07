@@ -3,5 +3,13 @@
     "id": 1,
     "content": "데이터베이스 테스트",
     "title" : "제목테스트"
+    },
+    "oversea":{
+        "title":"해외",
+        "detail":"해외상세"
+    },
+    "normal":{
+        "title":"국내",
+        "detail":"국내상세"
     }
 }
